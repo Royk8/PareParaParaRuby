@@ -8,9 +8,15 @@ GUIA PARA DESCARGARLO Y EJECUTAR EL PROGRAMA:
 2. Una vez tengamos todos los programas debemos de descargar el .zip de este proyecto y descomprimirlo, este nos dejara una carpeta con el nombre "PareParaParaRuby-master"
 
 3. Entramos a la cmd de ruby 
+https://github.com/Royk8/PareParaParaRuby/blob/master/1consolasola.png
 
-![Imagen d Prueba](https://github.com/Royk8/PareParaParaRuby/blob/master/prueba.png)
+4. vamos a entrar desde la cmd de ruby a la carpeta que exportamos "PareparaParaRuby-master" 
+#imagen de cmd carpeta
 
-Técnicas de Programación
+5.Vamor a correo el programa, para eso colocaremos el comando "rails server" la damos enter y esperamos que carge
+
+6.Una vez que cargue vamos al navegador y colocamos en el buscador "localhost:3000/asistencia" y ya nos debera de aparecer el programa para usarlo.
+
+Técnicas  de Programación
 Cristian Castaño
 Roy Maestre
