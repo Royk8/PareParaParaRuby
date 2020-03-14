@@ -14,6 +14,7 @@ GUIA PARA DESCARGARLO Y EJECUTAR EL PROGRAMA:
 ![imagen2](https://github.com/Royk8/PareParaParaRuby/blob/master/2consolacarpeta.png)
 
 5.Vamor a correo el programa, para eso colocaremos el comando "rails server" la damos enter y esperamos que carge
+
 ![imagen3](https://github.com/Royk8/PareParaParaRuby/blob/master/3consolaejecutando.png)
 
 6.Una vez que cargue vamos al navegador y colocamos en el buscador "localhost:3000/asistencia" y nos debera de aparece el programa como lo muestra la siguiente imagen, listo para usarse:  
