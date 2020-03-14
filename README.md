@@ -7,8 +7,8 @@ GUIA PARA DESCARGARLO Y EJECUTAR EL PROGRAMA:
 
 2. Una vez tengamos todos los programas debemos de descargar el .zip de este proyecto y descomprimirlo, este nos dejara una carpeta con el nombre "PareParaParaRuby-master"
 
-3. Entramos a la cmd de ruby 
-https://github.com/Royk8/PareParaParaRuby/blob/master/1consolasola.png
+3. Entramos a la cmd de ruby
+![imagen1](https://github.com/Royk8/PareParaParaRuby/blob/master/1consolasola.png)
 
 4. vamos a entrar desde la cmd de ruby a la carpeta que exportamos "PareparaParaRuby-master" 
 #imagen de cmd carpeta
