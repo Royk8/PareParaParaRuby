@@ -9,6 +9,8 @@ GUIA PARA DESCARGARLO Y EJECUTAR EL PROGRAMA:
 
 3. Entramos a la cmd de ruby 
 
+![Imagen d Prueba](https://github.com/Royk8/PareParaParaRuby/blob/master/prueba.png)
+
 Técnicas de Programación
 Cristian Castaño
 Roy Maestre
