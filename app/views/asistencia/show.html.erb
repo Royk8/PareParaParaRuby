@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Nombre:</strong>
+  <%= @asistencium.nombre %>
+</p>
+
+<p>
+  <strong>Cedula:</strong>
+  <%= @asistencium.cedula %>
+</p>
+
+<p>
+  <strong>Comentario:</strong>
+  <%= @asistencium.comentario %>
+</p>
+
+<p>
+  <strong>Asistencia:</strong>
+  <%= @asistencium.asistencia %>
+</p>
+
+<%= link_to 'Edit', edit_asistencium_path(@asistencium) %> |
+<%= link_to 'Back', asistencia_path %>

@@ -1,0 +1,33 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Asistencia</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Cedula</th>
+      <th>Comentario</th>
+      <th>Asistencia</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @asistencia.each do |asistencium| %>
+      <tr>
+        <td><%= asistencium.nombre %></td>
+        <td><%= asistencium.cedula %></td>
+        <td><%= asistencium.comentario %></td>
+        <td><%= asistencium.asistencia %></td>
+        <td><%= link_to 'Show', asistencium %></td>
+        <td><%= link_to 'Edit', edit_asistencium_path(asistencium) %></td>
+        <td><%= link_to 'Destroy', asistencium, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Asistencium', new_asistencium_path %>
